@@ -1,5 +1,13 @@
-## Hi there 👋 ,I'm Niels, a Java Developer
-### Java|Python
+## Hi there 👋 ,I'm Niels, a Java Developer  
+## Java|Python      
+##About me    
+im from Hamburg Germany i love solving riddels and problems   
+##TechStack  
+ 💻 Java| Python| C++  
+ 🔧 Git| Github| Gitlab| Svn| Win| Linux    
+ 🛢 Sql,oracle
+---
+ p📬 Find me at:
 <!--
 **Nielskorn/Nielskorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
