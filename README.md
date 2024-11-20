@@ -1,13 +1,19 @@
 ## Hi there 👋 ,I'm Niels, a Java Developer  
-## Java|Python      
-##About me    
-im from Hamburg Germany i love solving riddels and problems   
-##TechStack  
+
+## Java || Python
+
+## About me
+  i'm from Hamburg Germany
+  i love solving riddels and problems 
+
+## TechStack
+
  💻 Java| Python| C++  
  🔧 Git| Github| Gitlab| Svn| Win| Linux    
- 🛢 Sql,oracle
+ 🛢 Sql|Oracle Database
 ---
- p📬 Find me at:
+## 📬 Find me at:
+[Github](https://github.com/Nielskorn) [Gitlab](https://gitlab.com/Nielskorn)[CodeWars] (https://www.codewars.com/users/Nielskorn)
 <!--
 **Nielskorn/Nielskorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,3 +30,5 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nielskorn)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nielskorn)](https://github.com/anuraghazra/github-readme-stats)
+## i am currently
+Improving my Java Skills and Learnig Springboot
