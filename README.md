@@ -13,7 +13,7 @@
  🛢 Sql|Oracle Database
 ---
 ## 📬 Find me at:
-[Github](https://github.com/Nielskorn) [Gitlab](https://gitlab.com/Nielskorn)[CodeWars] (https://www.codewars.com/users/Nielskorn)
+[Github](https://github.com/Nielskorn) [Gitlab](https://gitlab.com/Nielskorn) [CodeWars](https://www.codewars.com/users/Nielskorn)
 <!--
 **Nielskorn/Nielskorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
